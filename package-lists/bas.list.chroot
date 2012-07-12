@@ -1,0 +1,13 @@
+emacs-snapshot
+emacs-snapshot-bin-common
+emacs-snapshot-common
+emacs-snapshot-el
+emacs-snapshot-gtk
+emacsen-common
+
+zsh
+bzr
+cvs
+subversion
+ssh 
+guile-2.0
