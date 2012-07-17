@@ -73,7 +73,7 @@ LB_PARENT_MIRROR_BINARY_BACKPORTS="http://backports.debian.org/debian-backports/
 LB_PARENT_MIRROR_DEBIAN_INSTALLER="http://ftp.debian.org/debian/"
 
 # $LB_MIRROR_BOOTSTRAP: set mirror to bootstrap from
-# (Default: http://ftp.nl.debian.org/debian)
+# (Default: http://ftp.nl.debian.org/debian/)
 LB_MIRROR_BOOTSTRAP="http://ftp.nl.debian.org/debian/"
 
 # $LB_MIRROR_CHROOT: set mirror to fetch packages from
@@ -109,7 +109,7 @@ LB_MIRROR_BINARY_VOLATILE="http://cdn.debian.net/debian/"
 LB_MIRROR_BINARY_BACKPORTS="http://backports.debian.org/debian-backports/"
 
 # $LB_MIRROR_DEBIAN_INSTALLER: set debian-installer mirror
-# (Default: http://ftp.nl.debian.org/debian)
+# (Default: http://ftp.nl.debian.org/debian/)
 LB_MIRROR_DEBIAN_INSTALLER="http://ftp.debian.org/debian/"
 
 # $LB_ARCHIVES: enable available third-party archives

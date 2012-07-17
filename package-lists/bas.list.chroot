@@ -1,13 +1,45 @@
+#include <rescue>
+#include <standard-x11>
+#include <debian-forensics>
+
+xfce4-panel
+xfce4-session
+xfce4-settings
+xfce4-terminal
+xfce4-utils
+xfdesktop4
+xdg-utils
+desktop-base
+
 emacs-snapshot
 emacs-snapshot-bin-common
 emacs-snapshot-common
 emacs-snapshot-el
 emacs-snapshot-gtk
 emacsen-common
+vim
+
+libreoffice
+
+octave
+
+texlive-latex-base
+texlive-latex-extra
+texlive-latex-recommended
 
 zsh
+
+git
 bzr
 cvs
 subversion
+
 ssh 
 guile-2.0
+
+build-essential debhelper fakeroot fakechroot wdiff
+gnupg gnupg2 less rsync screen sudo 
+memtest86+
+dosfstools parted
+
+iceweasel

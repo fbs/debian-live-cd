@@ -33,8 +33,8 @@ LB_LINUX_FLAVOURS="amd64"
 LB_LINUX_PACKAGES="linux-image"
 
 # $LB_PACKAGE_LISTS: set package list to install
-# (Default: standard)
-LB_PACKAGE_LISTS="standard"
+# (Default: rescue)
+LB_PACKAGE_LISTS="rescue"
 
 # $LB_SECURITY: enable security updates
 # (Default: false)
